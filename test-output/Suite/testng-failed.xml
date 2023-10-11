@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="MobileAutomation(failed)">
+    <classes>
+      <class name="mobileautomation.CalculatorFunctionalityTest">
+        <methods>
+          <include name="mathematicaloperation"/>
+        </methods>
+      </class> <!-- mobileautomation.CalculatorFunctionalityTest -->
+    </classes>
+  </test> <!-- MobileAutomation(failed) -->
+</suite> <!-- Failed suite [Suite] -->

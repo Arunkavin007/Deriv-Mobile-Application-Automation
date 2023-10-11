@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Mobile" duration-ms="36051" started-at="2023-10-11T14:25:55Z" finished-at="2023-10-11T14:26:31Z">
+    <groups>
+    </groups>
+    <test name="MobileAutomation" duration-ms="36051" started-at="2023-10-11T14:25:55Z" finished-at="2023-10-11T14:26:31Z">
+      <class name="CalculatorFunctionalityTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:CalculatorFunctionalityTest@11438d26]" name="config" is-config="true" duration-ms="296" started-at="2023-10-11T14:25:55Z" finished-at="2023-10-11T14:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:CalculatorFunctionalityTest@11438d26]" name="initialize" is-config="true" duration-ms="17538" started-at="2023-10-11T14:25:55Z" finished-at="2023-10-11T14:26:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="mathematicaloperation()[pri:0, instance:CalculatorFunctionalityTest@11438d26]" name="mathematicaloperation" duration-ms="17594" started-at="2023-10-11T14:26:13Z" finished-at="2023-10-11T14:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mathematicaloperation -->
+        <test-method status="PASS" signature="TestCleanup()[pri:0, instance:CalculatorFunctionalityTest@11438d26]" name="TestCleanup" is-config="true" duration-ms="597" started-at="2023-10-11T14:26:31Z" finished-at="2023-10-11T14:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCleanup -->
+      </class> <!-- CalculatorFunctionalityTest -->
+    </test> <!-- MobileAutomation -->
+  </suite> <!-- Mobile -->
+</testng-results>
