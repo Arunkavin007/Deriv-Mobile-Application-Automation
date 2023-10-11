@@ -111,7 +111,7 @@ public class CalculatorFunctionalityTest {
 		 
 		 driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		 
-		 test.info("Calculator Application Launched in the Mobile");
+		 test.info("Calculator application was successfully launched on mobile.");
 		
 		
 		 
