@@ -107,7 +107,7 @@ public class CalculatorFunctionalityTest {
 	@Test
 	public  void  mathematicaloperation() throws IOException  {
 		
-		 ExtentTest test= extent.createTest("MathematicalOperation");
+		 ExtentTest test= extent.createTest("MathematicalOperations");
 		 
 		 driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		 
